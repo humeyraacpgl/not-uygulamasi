@@ -1,3 +1,3 @@
 # not-uygulamasi
-Basit bir not tutma uygulamasi projesi.
-Geliştirici: Humeyra Capoglu (main versiyonu)
+Basit bir not tutma uygulaması projesi.
+Geliştirici: Humeyra Capoglu (main ve feature versiyonları birleştirildi)
