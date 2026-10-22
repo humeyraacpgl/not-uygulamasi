@@ -8,3 +8,4 @@ git add - değişikliği staging'e alır
 git commit - değişikliği kaydeder
 git status - durumu gösterir
 git log - commit geçmişini gösterir
+PR için ek not
